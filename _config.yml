@@ -1,0 +1,17 @@
+# Site settings
+title: Il cammino di San Francesco
+tagline: By Pixelarity
+description: > # this means to ignore newlines until "baseurl:"
+  Tussen 1 april en 5 mei 17 stappen Fred en Danny van Firenze via Assisi naar Rome in de voetstappen van Franciscus van Assisi. We eindigen de tocht in de Basiliek van Sint-Jan van Lateranen. Je kan onze tocht sponsoren en de opbrengst is voor Sint-Vincentius Lommel!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: assets/sass
+
+# Collections
+# Add new slides as HTML files inside the _panels folder
+collections:
+  - panels
