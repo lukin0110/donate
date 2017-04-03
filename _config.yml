@@ -10,8 +10,3 @@ url: "http://example.com" # the base hostname & protocol for your site
 markdown: kramdown
 sass:
   sass_dir: assets/sass
-
-# Collections
-# Add new slides as HTML files inside the _panels folder
-collections:
-  - panels
